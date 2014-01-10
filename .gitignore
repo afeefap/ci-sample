@@ -11,3 +11,8 @@ application/logs/*
 application/config/database.php
 
 /vendor/
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
